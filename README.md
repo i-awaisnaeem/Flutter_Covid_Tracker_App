@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-# covid_tracker_app
+
+# Covid_Tracker_App
+
+![Beige Elegant New Collection Instagram Post (1)](https://github.com/i-awaisnaeem/Flutter_Covid_Tracker_App/assets/99549253/2d14082f-11e3-40a6-a311-72886143e148)
 
 A new Flutter project.
 
